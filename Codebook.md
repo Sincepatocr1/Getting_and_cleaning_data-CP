@@ -22,6 +22,6 @@ These steps are:
   
   6. Appropriately labels of variables name in mean_stdDF data frame was assigned with the help of features_info.txt
   
-  7. A new and final data set containing average of each variable by activity and subject was created with group_by() and summarize_all() functions.
+  7. A new and final data set (average_data -180 observations, 88 variables- containing average of each variable by activity and subject was created with group_by() and summarize_all() functions.
      The resulting data was exported to a .txt archive with write.table() function.
     
